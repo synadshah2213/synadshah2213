@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Syna Shah 👋
 
-<!--
-**synadshah2213/synadshah2213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS & AI/ML Student at ATLAS Skilltech University, Mumbai · Builder · Conference Presenter
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I'm a first-year CS student passionate about building AI-powered products that solve real problems. I've published a research paper on **Federated Learning in Smart Education**, presented at the **ICCDM Conference (April 2025)**, and I love turning messy data into working applications.
+
+---
+
+## Tech Stack
+
+`Python` `SQL` `Machine Learning` `Streamlit` `Power BI` `Microsoft Excel` `Git & GitHub`
+
+---
+
+## Featured Projects
+
+### 🏃 Health & Fitness Data Analyzer
+End-to-end pipeline analyzing sleep, steps, calories & water intake to predict fitness levels. Built with Python, SQLite, scikit-learn, and deployed as a Streamlit app.
+> [View project](https://github.com/synadshah2213/health-fitness-data-analyzer) · [Live demo](#) ← add your Streamlit link here
+
+### 🧭 MindTrail – AI Career Guidance System
+AI-powered platform that recommends personalized career paths based on skills, interests, aptitude, and personality traits. Combines ML with psychology-backed assessments.
+> [View project](https://github.com/Tanmeet-25/MindTrail) ← add repo link
+
+### 📦 Warehouse Optimization *(In Progress)*
+ML-based warehouse logistics optimization — currently building.
+
+---
+
+## Research
+
+**Federated Learning in Smart Education**
+Presented at ICCDM Conference · April 2025 · Co-authored with 2 classmates
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syna_Shah-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/syna-shah/)
+
