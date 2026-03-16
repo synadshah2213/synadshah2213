@@ -34,7 +34,7 @@ ML-based warehouse logistics optimization — currently building.
 ## Research
 
 **Federated Learning in Smart Education**
-Presented at ICCDM Conference · April 2025 · Co-authored with 2 classmates
+Presented at ICCDM Conference · April 2026 · Co-authored with 2 classmates
 
 ---
 
