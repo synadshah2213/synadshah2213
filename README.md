@@ -20,14 +20,15 @@ I'm a first-year CS student passionate about building AI-powered products that s
 
 ### 🏃 Health & Fitness Data Analyzer
 End-to-end pipeline analyzing sleep, steps, calories & water intake to predict fitness levels. Built with Python, SQLite, scikit-learn, and deployed as a Streamlit app.
-> [View project](https://github.com/synadshah2213/health-fitness-data-analyzer) · [Live demo](#) ← add your Streamlit link here
+> [View project](https://github.com/synadshah2213/health-fitness-data-analyzer) 
 
 ### 🧭 MindTrail – AI Career Guidance System
 AI-powered platform that recommends personalized career paths based on skills, interests, aptitude, and personality traits. Combines ML with psychology-backed assessments.
-> [View project](https://github.com/Tanmeet-25/MindTrail) ← add repo link
+> [View project](https://github.com/Tanmeet-25/MindTrail)
 
 ### 📦 Warehouse Optimization *(In Progress)*
-ML-based warehouse logistics optimization — currently building.
+BFS-powered warehouse pathfinding system with Monte Carlo simulation for route optimization. Built with Python and deployed as a Streamlit app.
+> [View project](https://github.com/synadshah2213/warehouse_optimization)
 
 ---
 
