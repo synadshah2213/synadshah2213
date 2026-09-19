@@ -6,7 +6,7 @@ CS & AI/ML Student at ATLAS Skilltech University, Mumbai · Builder · Conferenc
 
 ## About me
 
-I'm a first-year CS student passionate about building AI-powered products that solve real problems. I've published a research paper on **Federated Learning in Smart Education**, presented at the **ICCDM Conference (April 2025)**, and I love turning messy data into working applications.
+I'm a second year CS student passionate about building AI-powered products that solve real problems. I've published a research paper on **Federated Learning in Smart Education**, presented at the **ICCDM Conference (April 2025)**, and I love turning messy data into working applications.
 
 ---
 
